@@ -29,6 +29,11 @@ h1 {
 
 }
 
+footer{
+  padding: 2em;
+  color: grey;
+}
+
 @keyframes pulsate {
    100% {
     text-shadow:
