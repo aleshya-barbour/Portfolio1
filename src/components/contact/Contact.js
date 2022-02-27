@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import emailjs from 'emailjs-com';
 import './contact.css';
+import Icon from '../Icon/Icon';
 
 function Contact () {
   const form = useRef();
@@ -28,6 +29,7 @@ function Contact () {
       <input type='submit' value="Send" required /><br />
 
     </form>
+    <Icon />
     </div>
   )
 

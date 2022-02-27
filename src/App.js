@@ -1,7 +1,7 @@
 
 import './App.css';
-import Contact from './components/contact/Contact';
 import Navigation from './components/Navigation';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
