@@ -29,6 +29,7 @@ function Contact () {
       <input type='submit' value="Send" required /><br />
 
     </form>
+    <h4>More contact info:</h4>
     <Icon />
     </div>
   )

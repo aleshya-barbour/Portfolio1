@@ -5,7 +5,7 @@ import { Routes, Route, Link } from "react-router-dom";
 
 import About from "./About";
 import Home from "./Home";
-import Contact from "./contact/Contact";
+import Empty from "./Empty";
 
 
 export default function Navigation() {
@@ -15,12 +15,12 @@ export default function Navigation() {
       <nav>
         <Link className='link' to='/'>Home</Link>
         <Link className='link' to='/about'>About</Link>
-        <Link className='link' to='/contact'>Contact</Link>
+        <Link className='link' to='/empty'>Empty</Link>
       </nav>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='about' element={<About />} />
-        <Route path='contact' element={<Contact />} />
+        <Route path='empty' element={<Empty/>} />
 
       </Routes>
     </div>
