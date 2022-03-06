@@ -3,7 +3,6 @@
   padding: 15em;
 }
 
-
 h1{
   color: azure;
   font-size: xx-large;
@@ -29,6 +28,7 @@ h1{
 }
 
 h3{
+  padding-bottom: 0.3em;
   color: white;
   text-shadow:
   0 0 7px rgb(255, 13, 195),
@@ -44,4 +44,5 @@ h3{
 
 .bio{
   background-color: rgb(236, 236, 206);
+  
 }

@@ -7,6 +7,9 @@ function App() {
   return (
     <div className="App">
       <Navigation />
+      <footer>
+        Made by Aleshya Barbour
+      </footer>
      
     </div>
   );

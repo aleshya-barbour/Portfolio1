@@ -8,6 +8,7 @@ const Skills = () => {
   return (
   <div className="skills">
     <h2>Languages used</h2>
+    <p>Hint: hover over</p>
     <div className="codeIcon">
      <button> <IoLogoJavascript /> Javascript</button>
      <button><SiHtml5 /> Html</button> 

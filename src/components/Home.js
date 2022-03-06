@@ -31,9 +31,7 @@ export default function Home() {
 
     
 
-      <footer>
-        Made by Aleshya Barbour
-      </footer>
+
     </>
     
   )

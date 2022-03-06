@@ -2,7 +2,10 @@ import React from 'react'
 
 const Empty = () => {
   return (
-    <div>Empty</div>
+    <div>I am portfolio</div>
+
+    
+
   )
 }
 

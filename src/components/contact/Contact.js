@@ -19,6 +19,7 @@ function Contact () {
   }
   return (
     <div id='contact' className='form'>
+      <h2>Contact</h2>
     <form ref={form} onSubmit={sendEmail}>
       <label>Name</label><br />
       <input type="text" name='user_name' required/><br />
@@ -29,6 +30,8 @@ function Contact () {
       <input type='submit' value="Send" required /><br />
 
     </form>
+    <h4>Email:</h4>
+    <a href="mailto: aleshya.ab@gmail.com" >aleshya.ab@gmail.com </a>
     <h4>More contact info:</h4>
     <Icon />
     </div>
