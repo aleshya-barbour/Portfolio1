@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Navigation />
       <footer>
-        Made by Aleshya Barbour
+        Aleshya Barbour &copy; 2022
       </footer>
      
     </div>

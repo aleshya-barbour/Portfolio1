@@ -13,17 +13,16 @@ export default function Home() {
     </div>
       <div className="home-div">
         <h1 className="neon pulsate">
-          Web Development Portfolio
+          Hi, I am Aleshya. 
+          Welcome to my web development portfolio!
         </h1>
       </div>
+
 
       <div>
         <Skills />
       </div>
 
-      {/* <div className="mid-section">
-        <Portfolio />
-      </div> */}
 
       <div className="contact-section">
         <Contact />

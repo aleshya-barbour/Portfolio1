@@ -22,6 +22,11 @@ h1 {
   animation: pulsate 1.5s infinite alternate;     
 }
 
+.mission{
+  padding: 1em;
+  background-color: rgb(29, 27, 27);
+}
+
 
 .home-div{
   background-color: rgb(10, 10, 10);

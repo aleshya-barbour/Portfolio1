@@ -1,0 +1,11 @@
+.portfolio{
+  background-color: rgb(181, 236, 181);
+  padding: 10em;
+  background-image: url(https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGxhbnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60);
+ padding-top: 4em;
+}
+
+.port{
+  padding: 1em;
+  
+}
