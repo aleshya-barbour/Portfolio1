@@ -49,6 +49,9 @@ export default function About() {
 
        </p>
 
+      <a href="https://docs.google.com/document/d/19rfERjSF0Mbm063qllTw0iUIhxs4V7gLStjn523oumE/edit?usp=sharing" download >
+        Click to view resume
+      </a>
 
      </div>
     </>

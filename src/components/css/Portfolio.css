@@ -1,11 +1,23 @@
 .portfolio{
   background-color: rgb(181, 236, 181);
-  padding: 10em;
+  
   background-image: url(https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGxhbnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60);
+  background-size: cover;
  padding-top: 4em;
+ padding: 16em;
+
 }
 
 .port{
-  padding: 1em;
+  padding: 2em;
+  background-color:black;
+  text-decoration: none;
+  width: 14em;
   
+}
+
+
+
+.anchor{
+  text-decoration: none;
 }

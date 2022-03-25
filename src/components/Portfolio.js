@@ -4,24 +4,37 @@ import './css/Portfolio.css'
 const Portfolio = () => {
   return (
     <>
-   
-    
+
     <div className='portfolio'>
 
-    <h1>I am portfolio</h1>
+    <span><h1> My Portfolio</h1></span>
 
-     <button className='port'>
-        <h1>here will be the links to projects.</h1> 
-     </button>
+   
+      
+      <button className='port'>
+         <a className='anchor' href='https://kind-khorana-01df3e.netlify.app'>
+            <h1>WEATHER APP</h1> 
+         </a>
+      </button>
+      
+    
 
-     <button className='port'>
-        <h1>here will be the links to projects.</h1> 
-     </button>
+      <button className='port'>
+         <a className='anchor' href='https://gifted-einstein-9aa510.netlify.app'>
+            <h1>  My Todo APP</h1> 
+         </a>
+      </button>
+      
 
-     <button className='port'>
-        <h1>here will be the links to projects.</h1> 
-     </button>
+      <button className='port'>
+         <a className='anchor' href='https://kind-khorana-01df3e.netlify.app'>
+            <h1> kombucha App
+               </h1> 
+         </a>
+      </button>
+      
      </div>
+     
     </>  
 
   )
